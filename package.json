@@ -1,0 +1,27 @@
+{
+  "name": "react-native-selectable-dropdown",
+  "version": "0.0.1",
+  "description": "A better Select dropdown menu for react-native",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S5Platform/react-native-selectable-dropdown.git"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "react-native-dropdown",
+    "ios",
+    "android"
+  ],
+  "author": "0nlyoung7 <0nlyoung7@gmail.com> (https://github.com/S5Platform)",
+  "license": "MIT",
+  "homepage": "https://github.com/S5Platform/react-native-selectable-dropdown",
+  "dependencies": {
+    "react-native-vector-icons": "^2.0.0",
+    "underscore": "^1.8.3"
+  }
+}
