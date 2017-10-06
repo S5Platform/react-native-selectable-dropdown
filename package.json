@@ -1,6 +1,6 @@
 {
   "name": "react-native-selectable-dropdown",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A better Select dropdown menu for react-native",
   "main": "lib/index.js",
   "scripts": {
@@ -21,8 +21,8 @@
   "license": "MIT",
   "homepage": "https://github.com/S5Platform/react-native-selectable-dropdown",
   "dependencies": {
-    "react-native-svg": "^4.6.1",
-    "react-native-svg-icon": "^0.4.0",
+    "react-native-svg": "^5.2.0",
+    "react-native-svg-icon": "^0.7.0",
     "underscore": "^1.8.3"
   }
 }
